@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - _libgcc_mutex=0.1
+  - _libgcc_mutex
   - async_generator=1.10
   - attrs=19.3.0
   - backcall=0.1.0
