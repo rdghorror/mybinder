@@ -119,4 +119,3 @@ dependencies:
   - zeromq=4.3.1
   - zipp=0.6.0
   - zlib=1.2.11
-prefix: /home/alxfed/miniconda3/envs/jupy
