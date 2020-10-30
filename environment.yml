@@ -7,5 +7,4 @@ dependencies:
   - numpy
   - pandas==1.0.0
   - matplotlib
-  - sqlalchemy
-  - dask
+  - pynput
